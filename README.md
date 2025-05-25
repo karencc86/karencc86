@@ -1,10 +1,6 @@
 # 💫 About Me:
 🤓 Jr. Data Analyst <br>🔭 I’m currently working in an inventory department<br>👯 I’m looking to collaborate on data analysis projects<br>🌱 I’m currently learning and improving my skills in Python, SQL, and Power B<br>⚡ Fun fact: my favorite topics to read are technology, sustainable development, healthy eating and pets<br><br><br><br>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karen-carvajal-cr005/) 
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
 # 📊 GitHub Stats:
