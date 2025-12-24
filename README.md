@@ -1,5 +1,5 @@
 # 💫 About Me:
-😊 Data Analyst <br> 👯 I’m looking to collaborate on data analysis projects<br> 📊💻 I’m currently learning and improving my skills in Python, SQL, and Power BI <br>⚡ Fun fact: my favorite topics to read are technology, sustainable development, healthy eating and pets<br><br><br><br>
+😊 Data Analyst <br> 👯 I’m looking to collaborate on data analysis projects<br> 💻 I’m currently learning and improving my skills in Python, SQL, and Power BI <br>⚡ Fun fact: my favorite topics to read are technology, sustainable development, healthy eating and pets<br><br><br><br>
 
 ## 🧠 Technologies & Tools
 
